@@ -1,0 +1,6 @@
+v color hover tile 
+- color character 8 directions
+
+=================
+- character move 8 directions w/ animation
+AABB : axis-aligned bounding box
